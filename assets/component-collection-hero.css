@@ -51,6 +51,7 @@
 
 .collection-hero__title {
   margin: 5rem 0 0;
+  color: red;
 }
 
 .collection-hero__title + .collection-hero__description {
